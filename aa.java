@@ -6,6 +6,8 @@ public class aa {
 		//int b=5;
 		//int z=a<<b;
 		System.out.println(z);
+/*gusd
+*//
 
 	}
 
